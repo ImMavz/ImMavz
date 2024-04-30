@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph '@ImMavz'
-- 👀 I know JavaScript, HTML 5, CSS, Python, C++
-- 🌱 I’m currently learning Java, JavaScript, MySQL and Cybersecurity
+- 👀 I know JavaScript, HTML 5, CSS, Python, C++, JavaScript, Java.
+- 🌱 I’m currently learning React, MySQL and Cybersecurity
 - 📫 How to reach me: josephherrera1407@gmail.com
 - 🎒Currently studying at Univalle
 - ⚕️ Love cats
